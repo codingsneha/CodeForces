@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "50A-Domino-Piling.C": "cpp"
+        "50A-Domino-Piling.C": "cpp",
+        "1631A-Min-Max-Swap.C": "cpp",
+        "tempCodeRunnerFile.C": "cpp"
     }
 }
